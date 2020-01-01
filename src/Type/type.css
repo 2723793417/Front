@@ -1,0 +1,70 @@
+.mout{
+    width: 1900px;
+    height: 770px;
+    float: left;
+    background-color: gray;
+}
+
+.list{                                                                                                                                                                                                                                                                                                                                               
+    width: 200px;
+    height: 770px;
+    background-color: rgb(76, 71, 71);
+    float: left;
+}
+
+.outer{
+    width: 200px;
+    height: 50px;
+    float: left;
+    font-size: 30px;
+    border-radius: 15px;
+    background-color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.l1{
+    color: rgb(233, 232, 231);
+}
+
+.option{
+    width: 1700px;
+    height: 770px;
+    float: left;
+}
+
+/* .type{
+    width: 237.5px;
+    height: 60px;
+    text-align: center;
+    float: left;
+    font-size: 40px;
+    color: rgb(202, 202, 202);
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 15px;
+    box-shadow:3px 3px 5px rgb(114, 113, 113) inset;
+    background-color: rgb(51, 49, 53);
+   
+}
+.type:hover{
+    transform: scale(1.05,1.05);
+    transition-duration: 0.2s
+}
+.type:active {
+    background: rgb(148, 148, 148);
+} */
+
+
+/* .luyou{
+    float: left;
+   
+}*/
+
+
+/* .r {
+    width: 1900px;
+    height: 900px;
+    background-color: black;
+}  */
+
+

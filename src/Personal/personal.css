@@ -1,0 +1,71 @@
+.top{
+    font-size: 50px;
+}
+
+.out{
+    width: 1900px;
+    height: 900px;
+    background-color: rgb(255, 218, 229);
+}
+
+.user{
+    
+    width: 1900px;
+    height: 100px;
+    
+}
+
+.img{
+    width: 120px;
+    height: 100px;
+    float: left;
+    border-radius: 50px;
+}
+
+
+.wenzi{
+    font-size: 30px;
+    width: 1000px;
+    float: left;
+}
+
+.tab{
+    width:1900px;
+    height: 625px;
+    background-color: rgb(255, 214, 233);
+}
+.link{
+    width: 200px;
+    height: 625px;
+    background-color: rgb(255, 226, 246);
+    float: left;
+}
+.watched{
+    width: 200px;
+    height: 70px;
+    background-color: rgb(231, 208, 220);
+    margin-bottom: 20px;
+    float: left;
+    border: 1px solid rgb(226, 226, 226);
+    font-size: 40px;
+    color: rgb(73, 73, 73);
+    border-radius: 15px;
+    box-shadow:3px 3px 5px white inset;
+}
+.watched:hover{
+    transform: scale(1.05,1.05);
+    transition-duration: 0.2s
+}
+
+
+.luyou{
+    width: 1700px;
+    height: 625px;
+    background-color: rgb(255, 240, 250);
+    float: left;
+}
+
+
+
+
+
